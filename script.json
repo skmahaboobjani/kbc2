@@ -1,0 +1,50 @@
+[
+    {
+        "q":"Which one of the following river flows between Vindhyan and Satpura ranges?",
+       "options" :[{"optionA":" Narmada"},
+        {"optionB":"Mahanadi"},
+        {"optionC":"Son"},
+        {"optionD":"Netravati"}],
+        "Ans":"Narmada"
+    },
+    {
+        "q":"The Central Rice Research Station is situated in?",
+       "options": [{"optionA":"Chennai"},
+        {"optionB":"Cuttack"},
+        {"optionC":" Bangalore"},
+        {"optionD":" Quilon"}],
+        "Ans":" Cuttack"
+    },
+    {
+        "q":"Who among the following wrote Sanskrit grammar?",
+       "options":[ { "optionA":" Kalidasa"},
+        {"optionB":"Charak"},
+        {"optionC":"Panini "},
+        {"optionD":"Aryabhatt"}],
+        "Ans":"Panini"
+    },
+    {
+        "q":"Which among the following headstreams meets the Ganges in last?",
+        "options":[{"optionA":"Alaknanda"},
+        {"optionB":" Pindar"},
+        {"optionC":" Mandakini"},
+        {"optionD":" Bhagirathi"}],
+        "Ans":"Bhagirathi"
+    },
+    {
+        "q":"The metal whose salts are sensitive to light is?",
+        "options":[{"optionA":" Zinc"},
+        {"optionB":" Silver"},
+        {"optionC":"Copper"},
+        {"optionD":" Aluminum"}],
+        "Ans":"Silver"
+    },
+    {
+        "q":" Patanjali is well known for the compilation of ?",
+        "options":[{"optionA":"Yoga Sutra"},
+            {"optionB":" Panchatantra"},
+            {"optionC":" Brahma Sutra"},
+            {"optionD":" Ayurveda"}],
+        "Ans":"Yoga Sutra"
+    }
+]
